@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "Json-server",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Voloshun555.github.io/PARCEL",
+  "homepage": "https://Voloshun555.github.io/Json-server",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /PARCEL/"
+    "build": "parcel build src/*.html --public-url /Json-server/"
   },
   "repository": {
     "type": "git",
